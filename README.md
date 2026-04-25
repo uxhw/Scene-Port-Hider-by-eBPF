@@ -274,3 +274,10 @@ bash tools/build_for_connected_device.sh
 说明这个模块不是用当前手机的 `/sys/kernel/btf/vmlinux` 构建出来的。
 
 请重新从当前手机导出 `vmlinux.btf`，上传到自己的 Fork，再跑一次 GitHub Actions。
+
+## 捐赠
+
+如果您觉得这个模块对您有帮助，可以考虑请作者喝杯咖啡：
+
+![捐赠二维码](1777159174454.jpg)
+
